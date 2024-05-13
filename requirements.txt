@@ -2,3 +2,4 @@ dash
 joblib
 pandas
 gunicorn
+sklearn
