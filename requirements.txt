@@ -3,3 +3,8 @@ joblib
 pandas
 gunicorn
 scikit-learn
+category_encoders
+sklearn.model_selection
+sklearn.pipeline
+sklearn.preprocessing
+sklearn.linear_model
